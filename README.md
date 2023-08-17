@@ -29,3 +29,14 @@
 
 ## Markdown cheatsheet
 [Markdown cheatsheet](https://www.markdownguide.org/cheat-sheet)
+
+
+# Bitacora
+## Clase 1
+Aprendimos a usar git y github, creamos el repositorio
+
+## Clase 2
+commit a a.py
+
+## CLase 3
+Actualizacion del Readme
