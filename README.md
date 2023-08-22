@@ -1,4 +1,5 @@
 # Clase GitHub
+Ketzalli Rosalia Sanchez Moctezuma A01786306
 
 ## Git y GitHub
 **Git** es una herramienta de control de versiones que permite rastrear cambios en archivos y colaborar en proyectos de software de manera eficiente. **GitHub** es una plataforma en línea que facilita la gestión de repositorios Git de forma remota y ofrece herramientas adicionales para la colaboración y seguimiento de problemas.
